@@ -12,6 +12,20 @@ Home Helps is a comprehensive platform that connects users with service provider
    - Super admin dashboard for platform management
    - Built with Flutter Web
 
+## Team 👥
+
+Meet the talented developers behind Home Helps:
+
+### Core Development Team
+
+- **Patel Krushang** - Project Lead & Full Stack Developer
+  - GitHub: [theexpensiveinformatics](https://github.com/theexpensiveinformatics)
+  - Role: Architecture Design, Mobile App Development, Admin Panel
+
+- **Rohit** - Lead Developer
+  - GitHub: [RayqRohit](https://github.com/RayqRohit)
+  - Role: Mobile App Development, Firebase Integration
+
 ## Technology Stack 🛠️
 
 - **Flutter** - UI Framework
