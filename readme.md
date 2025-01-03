@@ -22,9 +22,9 @@ Meet the talented developers behind Home Helps:
   - GitHub: [theexpensiveinformatics](https://github.com/theexpensiveinformatics)
   - Role: Architecture Design, Mobile App Development, Admin Panel
 
-- **Rohit** - Lead Developer
+- **Rohit** - Mearn Developer
   - GitHub: [RayqRohit](https://github.com/RayqRohit)
-  - Role: Mobile App Development, Firebase Integration
+  - Role: Web Developer
 
 ## Technology Stack 🛠️
 
