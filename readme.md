@@ -153,18 +153,12 @@ lib/
 ## Contributing 🤝
 
 1. Fork the repositories
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch 
+3. Commit your changes 
+4. Push to the branch 
 5. Open a Pull Request
 
-## Support 🆘
 
-For support, please open an issue in the respective repository or contact the development team.
-
-## License 📝
-
-[Add your license information here]
 
 ## Acknowledgments 🙏
 - Flutter Team
